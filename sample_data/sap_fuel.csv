@@ -1,0 +1,4 @@
+plant_code,fuel_type,quantity,unit,date
+PLT001,Diesel,500,Liters,2026-05-10
+PLT002,Petrol,300,Liters,2026-05-11
+PLT003,Diesel,800,Liters,2026-05-12
